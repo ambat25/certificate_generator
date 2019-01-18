@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@sendgrid/mail": "^6.3.1",
+    "base64-stream": "^1.0.0",
+    "google-fonts-offline": "^0.1.5",
+    "pdfkit": "^0.8.3"
+  },
+  "name": "certificate_generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
